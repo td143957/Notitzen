@@ -17,3 +17,24 @@ tmdjialoh@gmail.com
 
 Playliste Docker:
 https://labs.play-with-docker.com/
+
+Befehle 1 :Dockerfile
+git clone https://github.com/thenativeweb/techlounge-docker
+cd techlounge-docker/
+ls -l
+cd 01-grundkonzepte/
+ls-l
+clear
+cat Dockerfile
+
+Befehle 2: Image bauen
+docker build -t apache2 .
+clear
+docker images
+
+Befehle 3: Container starten
+
+
+
+
+
