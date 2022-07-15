@@ -1,6 +1,10 @@
 # Notitzen
 Alle Code Befehle und  Linke
 
+
+Hackingsseite:
+https://owasp.org/www-project-webgoat/
+....................................................................................
 HTML:
 https://wiki.selfhtml.org/wiki/Wie_fange_ich_an%3F
 
@@ -37,8 +41,6 @@ Befehle 3: Container starten
 benutzer:docker login -u maladho94
 Passwort:70219853-ce65-46a3-948a-da67c3c8ad7b
 
-Hackingsseite:
-https://owasp.org/www-project-webgoat/
 
 
 
@@ -592,11 +594,15 @@ Ordner über komandozeile erstellen :
 ->git status 
 ->
 ->
-23.12.21
-Dockerfile in Visual Studion erstellen lassen:
+..................................................................................................................................................
+Suchmachine: 
 
+->Suchbegriffe auf English übersetzen und suchen.(weil Mehr Auswahl )
+->Mit Stichwörter suchen.DH(Keine Artikel,keine präpositionen,keine untersch zw. Größe und klein)
+->
+->Anonime suche mit Anonime-Tab machen,ohne sich auf Google anzumelden
 
-Git mit Visual Studio anwenden
-
-
+->
+->
+->
 
