@@ -601,8 +601,10 @@ Suchmachine:
 ->Mit Stichwörter suchen.DH(Keine Artikel,keine präpositionen,keine untersch zw. Größe und klein)
 ->
 ->Anonime suche mit Anonime-Tab machen,ohne sich auf Google anzumelden
+..................................................................................................................................................
+To Do:
 
-->
-->
-->
+-> learn English ( Beginner Levels - Lesson 13 )  ergänzen und Lesson 01 hören
+-> Programmieren ( CSS display flex - Flex-Box Tutorial #17) ,18 ergänzen und Lesson 1,2 hören
+-> Video über Aktivitätsdiagramme ( UML Tutorial #1 - Einleitung )
 
