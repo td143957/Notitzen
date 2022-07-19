@@ -604,7 +604,9 @@ Suchmachine:
 ..................................................................................................................................................
 To Do:
 
--> learn English ( Beginner Levels - Lesson 13 )  ergänzen und Lesson 01 hören
+-> learn English ( Beginner Levels - Lesson 10,11,12,14 - Practical English Drama )  Buch Grammatik und Übung
+   -Wörterbuch (https://dictionary.cambridge.org/de/worterbuch/englisch-deutsch/dark)
+   
 -> Programmieren ( CSS display flex - Flex-Box Tutorial #17) ,18 ergänzen und Lesson 1,2 hören
 -> Video über Aktivitätsdiagramme ( UML Tutorial #1 - Einleitung )
 
